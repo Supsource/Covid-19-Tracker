@@ -4,5 +4,5 @@
 This project is for html &amp; css , php practice. I made this for practice purpose.
 <b>coded by [Swda](https://github.com/Supsource )</b>
 ### 👍 HAVE FUN 👍
-Thanks, Swda!!
+Thanks, Swda!
 
